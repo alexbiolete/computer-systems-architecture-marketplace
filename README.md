@@ -33,3 +33,5 @@ https://ocw.cs.pub.ro/courses/asc/laboratoare/03
 Git
 -
 https://github.com/alexbiolete/Computer-Systems-Architecture-Marketplace.git
+
+* It has been made public on April 18, 2021
