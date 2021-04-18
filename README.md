@@ -1,5 +1,6 @@
 BIOLETE Alexandru-Eusebiu
 334CC
+* Repo made public on April 18, 2021
 
 ## Computer Systems Architecture
 # First Assignment - Marketplace
@@ -34,4 +35,3 @@ Git
 -
 https://github.com/alexbiolete/Computer-Systems-Architecture-Marketplace.git
 
-* It has been made public on April 18, 2021
