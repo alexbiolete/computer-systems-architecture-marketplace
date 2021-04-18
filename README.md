@@ -24,13 +24,13 @@ more about concurrence.
 
 I consider the implementation quite efficient.
 
-### Resources
+Resources
 -
 https://ocw.cs.pub.ro/courses/asc/laboratoare/01
 https://ocw.cs.pub.ro/courses/asc/laboratoare/02
 https://ocw.cs.pub.ro/courses/asc/laboratoare/03
 
-### Git
+Git
 -
 https://github.com/alexbiolete/Computer-Systems-Architecture-Marketplace.git
 
