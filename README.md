@@ -1,9 +1,8 @@
-BIOLETE Alexandru-Eusebiu
-334CC
-* Repo made public on April 18, 2021
+## BIOLETE Alexandru-Eusebiu (334CC)
+### Repo made public on April 18, 2021
 
-## Computer Systems Architecture
-# First Assignment - Marketplace
+# Computer Systems Architecture
+## First Assignment - Marketplace
 
 The purpose of this assignment was to efficiently use synchronization
 elements to implement a concurrent application. I have used the Lock
@@ -25,13 +24,13 @@ more about concurrence.
 
 I consider the implementation quite efficient.
 
-Resources
+### Resources
 -
 https://ocw.cs.pub.ro/courses/asc/laboratoare/01
 https://ocw.cs.pub.ro/courses/asc/laboratoare/02
 https://ocw.cs.pub.ro/courses/asc/laboratoare/03
 
-Git
+### Git
 -
 https://github.com/alexbiolete/Computer-Systems-Architecture-Marketplace.git
 
